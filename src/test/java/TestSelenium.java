@@ -17,7 +17,7 @@ class TestSelenium {
     static void setupClass() {
 
         //WebDriverManager.chromedriver().setup();
-        System.setProperty("webdriver.chrome.driver", ".driver\\win\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "D:\\auto\\web2-1\\driver\\chromedriver.exe");
 
     }
 
